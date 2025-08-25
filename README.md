@@ -7,3 +7,5 @@ To download class notebooks, open the terminal and type the following commands a
 For example, to download the notebook `julia-tutorial.ipynb`, the command is
 
 > wget https://www.phys.uconn.edu/~rozman/Courses/P2200_25F/downloads/julia-tutorial.ipynb
+
+README FILE
